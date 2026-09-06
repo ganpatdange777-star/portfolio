@@ -1,1 +1,6 @@
+.tag:hover {
+  background: var(--primary-color);
+  color: #fff;
+  transition: 0.3s;
+}
 
